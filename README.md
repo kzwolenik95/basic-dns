@@ -12,9 +12,7 @@ For this task I have configured www.gh.kzwolenik.com as *Custom domain* in the G
 Additionaly I have added a DNS record in the CloudFlare admin panel
 
 |Type|Name|Content|
-
 |--|--|--|
-
 |CNAME|www.gh|kzwolenik95.github.io|
 
   
